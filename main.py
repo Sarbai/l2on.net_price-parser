@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import time
 from random import random
 
-bot = telebot.TeleBot("1414986890:AAH5yUrdfwPhovZem0W2UDPhRGAzqPTFl3Q")
+bot = telebot.TeleBot("")
 action = 0
 discount = 20
 server = 3061
